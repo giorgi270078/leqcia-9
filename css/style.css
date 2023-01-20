@@ -1,0 +1,83 @@
+.container{
+    width: 1360px;
+    height: 81px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.logo{
+    margin-left: 95px;
+}
+ul{
+    width: 499px;
+    height: 21px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+    margin-top: 25px;
+}
+            /*section 2*/
+.s-1{
+    background-image: url(../img/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkred;
+    background-position: center;
+    height: 650px;
+    
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.Discover{
+    font-size: 78.74px;
+    color: #FFFFFF;
+}
+.Discover:hover{
+    cursor: pointer;  
+}
+
+.TRAVEL{
+    font-size: 18px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+.TRAVEL:hover{
+    cursor: pointer; 
+}
+
+.p-1{
+    width: 241.47px;
+    height: 241.47px;
+    margin-right: 60px;
+    
+}
+.DISCOVER{
+    color: #8D8D8D;
+    font-size: 16;
+}
+.Our{
+    color: #1A1A1B;
+    font-size: 26px;
+}
+.Lorem{
+    color:#161616;
+    font-size: 16px;
+}
+.container-1{
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 74px; 
+}
+.s-2-weaper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+p{
+    width: 269px;
+    color: #8D8D8D;
+}
