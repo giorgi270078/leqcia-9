@@ -1,5 +1,6 @@
 .container{
-    width: 1360px;
+    max-width: 1412px;
+    
     height: 81px;
     display: flex;
     justify-content: space-between;
@@ -8,6 +9,13 @@
 }
 .logo{
     margin-left: 95px;
+}
+
+.burger-bar {
+    display: none;
+  }
+.nav-ul {
+  display: flex;
 }
 ul{
     width: 499px;

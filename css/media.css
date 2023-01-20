@@ -1,5 +1,72 @@
 @media (max-width: 1360px){
     .container{
         width: 90%;
+        
     }
 }
+@media (max-width: 1145px){
+    .container-2 {
+        width: 90%;
+        display: block;
+    }
+}
+@media (max-width: 1090px){
+    .s-2-weaper {
+        width: 85%;
+    }
+    .s-2-weaper > img:nth-child(1),
+    .s-2-weaper > img:nth-child(2){
+        margin-bottom: 30px;
+    }
+    
+}
+@media (max-width: 900px){
+    .s-3-weaper{
+        width: 45%;
+    }
+    .s-2-weaper > img:nth-child(4),
+    .s-2-weaper > img:nth-child(5){
+        margin-bottom: 30px;
+    }
+    .s-2-wraper, .s-3-weaper > img{
+        width: 90%;
+    }
+}
+@media (max-width: 1024px) {
+    p{
+        margin-bottom: 30px;
+    }
+    .logo-1{
+        display: block;
+    }
+    .Discover{
+        font-size: 30px;
+    }
+    .TRAVEL{
+        font-size: 10px;
+    }
+    .nav{
+        display: none;
+    }
+    .burger-bar{
+        display: block;
+        font-size: 30px;
+        color: lightcoral;
+    }
+    .s-2-wraper, .s-3-weaper{
+        
+        margin: 0 auto;
+    }
+    .p-1{
+        
+        margin: 0 auto;
+        
+    }
+}
+
+
+
+
+
+
+
