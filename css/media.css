@@ -12,7 +12,7 @@
 }
 @media (max-width: 1090px){
     .s-2-weaper {
-        width: 85%;
+        width: 84%;
     }
     .s-2-weaper > img:nth-child(1),
     .s-2-weaper > img:nth-child(2){
@@ -23,7 +23,9 @@
 @media (max-width: 900px){
     .s-3-weaper{
         margin: 0 auto;
+
         display: flex;
+        
         justify-content: center;
     }
     .s-2-weaper > img:nth-child(4),
