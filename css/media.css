@@ -25,6 +25,7 @@
         margin: 0 auto;
         display: flex;
         justify-content: center;
+        
     }
     .s-2-weaper > img:nth-child(4),
     .s-2-weaper > img:nth-child(5){
@@ -56,10 +57,15 @@
     .s-2-wraper, .s-3-weaper{
         justify-content: center;
         margin: 0 auto;
+        justify-content: space-around;
+    }
+    p{
+        margin-bottom: 50px;
     }
     .p-1{
         justify-content: center;
         margin: 0 auto;
+        justify-content: space-around;
         
     }
 }
